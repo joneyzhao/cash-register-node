@@ -7,3 +7,5 @@ class CashRegister {
     this.__printer.print(purchase.asString());
   }
 }
+
+export default CashRegister
