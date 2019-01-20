@@ -5,7 +5,7 @@ class Purchase {
 
   asString() {
     return this.__items.reduce((out, item) => {
-      return out += `${item.name}    ${item.price}\n`
+      return out += `${item.name}\t${item.price}\n`
     }, '')
   }
 }
