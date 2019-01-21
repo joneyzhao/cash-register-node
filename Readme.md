@@ -7,8 +7,12 @@
 - 有一台可以访问外网的电脑
 - 在项目根目录下运行`npm install`
 
-
 ## 开始操练
 
 - `npm install`
 - `npm test`
+
+## 课后阅读
+
+- 阅读[sinon的mock接口文档](https://sinonjs.org/releases/latest/mocks/)。思考sinon这个库里面的mock和编程操练里面的mock是一个含义吗？
+- 阅读[sinon的stub接口文档](https://sinonjs.org/releases/latest/stubs/)。思考sinon这个库里面的stub和编程操练里面的stub是一个含义吗？
